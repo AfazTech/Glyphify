@@ -18,10 +18,6 @@ Glyphify is a comprehensive text styling library that transforms ordinary text i
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Font Styles](#font-styles)
-* [API Reference](#api-reference)
-* [Examples](#examples)
-* [TODO](#todo)
 * [Contributing](#contributing)
 * [License](#license)
 
