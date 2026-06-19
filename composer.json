@@ -1,0 +1,30 @@
+{
+    "name": "afaztech/glyphify",
+    "description": "A PHP font generator supporting Persian and Latin scripts with 100+ unique font styles",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abolfazl Majidi (Afaz)",
+            "email": "contact@afaz.me",
+            "homepage": "https://afaz.me"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "AfazTech\\Glyphify\\": "src/"
+        }
+    },
+    "keywords": [
+        "font-generator",
+        "persian-fonts",
+        "latin-fonts",
+        "unicode-fonts",
+        "text-styler",
+        "glyphify"
+    ]
+}
