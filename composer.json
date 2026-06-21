@@ -2,7 +2,7 @@
     "name": "afaztech/glyphify",
     "description": "A PHP font generator supporting Persian and Latin scripts with 100+ unique font styles",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
