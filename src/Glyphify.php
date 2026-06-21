@@ -129,7 +129,7 @@ class Glyphify
 
     private function hasEnglish(string $text): bool
     {
-        return preg_match('/[a-zA-Z]/', $text);
+        return preg_match('/[a-zA-Z0-9]/', $text);
     }
 
     private function persianToFinglish(string $text): string
